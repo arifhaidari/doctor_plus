@@ -7,6 +7,7 @@ Doctor Plus is a groundbreaking mobile application developed in affiliation with
 ## Overview
 
 Doctor Plus is part of a larger ecosystem that includes multiple mobile applications, websites, and microservices, all designed to enhance the efficiency and accessibility of healthcare services in Afghanistan. The app centralizes essential healthcare information, enabling users to easily find doctors, book appointments, and manage their medical history.
+Below you can see screenshots of new version:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-around;">
 
