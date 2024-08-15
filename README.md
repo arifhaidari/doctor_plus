@@ -56,12 +56,14 @@ Want to see more? [Click here to view all screenshots](https://github.com/arifha
 - **Doctor-Patient Chat:** Engage in conversations with doctors after a successful appointment, with options to send text, files, and voice messages.
 - **Notification System:** Receive messages from doctors even without a completed appointment, ensuring continuous communication.
 
-## Related Projects
+## Doctor Plus Ecosystem - Related Projects
 
 Doctor Plus is part of a broader initiative that includes various related services:
 
-- **[Doctor Practice](https://github.com/arifhaidari/doctor_panel)**
-- **[Doctor Plus Website](https://github.com/arifhaidari/doctorplus)**
+- **[Doctor Practice](https://github.com/arifhaidari/doctor_practice)**
+- **[Doctor Plus Website](https://github.com/arifhaidari/doctor_plus_web)**
+- **[Oder Version of Doctor Plus](https://github.com/arifhaidari/legacy_doctor_plus)**
+- **[Oder Version of Doctor Practice](https://github.com/arifhaidari/legacy_doctor_practice)**
 - **[Doctor Registration, License, and Clinic](#)**
 - **[News & More](#)**
 
