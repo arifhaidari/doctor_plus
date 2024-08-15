@@ -24,7 +24,7 @@ Doctor Plus is part of a larger ecosystem that includes multiple mobile applicat
 
 </div>
 
-Want to see more? [Click here to view all screenshots](https://github.com/arifhaidari/doctor_plus/main/screenshots)
+Want to see more? [Click here to view all screenshots](https://github.com/arifhaidari/doctor_plus/tree/main/screenshots)
 
 ## Features
 
