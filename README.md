@@ -10,7 +10,7 @@ Doctor Plus is part of a larger ecosystem that includes multiple mobile applicat
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-around;">
 
-  <img src="screenshots/01.png" alt="Homepage" width="30%">
+  <img src="screenshots/1.png" alt="Homepage" width="30%">
   
   <img src="screenshots/2.png" alt="find doctor" width="30%">
   
