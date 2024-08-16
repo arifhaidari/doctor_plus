@@ -62,8 +62,8 @@ Doctor Plus is part of a broader initiative that includes various related servic
 
 - **[Doctor Practice](https://github.com/arifhaidari/doctor_practice)**
 - **[Doctor Plus Website](https://github.com/arifhaidari/doctor_plus_web)**
-- **[Oder Version of Doctor Plus](https://github.com/arifhaidari/legacy_doctor_plus)**
-- **[Oder Version of Doctor Practice](https://github.com/arifhaidari/legacy_doctor_practice)**
+- **[Legacy Version of Doctor Plus](https://github.com/arifhaidari/legacy_doctor_plus)**
+- **[Legacy Version of Doctor Practice](https://github.com/arifhaidari/legacy_doctor_practice)**
 - **[Doctor Registration, License, and Clinic](#)**
 - **[News & More](#)**
 
